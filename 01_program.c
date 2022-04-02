@@ -1,4 +1,4 @@
-//area and perimeter of rectangle 
+//area and perimeter of rectangle :
 #include<stdio.h>
 int area(int i,int j);
 int perimeter(int x,int y );

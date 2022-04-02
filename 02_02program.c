@@ -1,4 +1,4 @@
-// swap two numbers without using 3rd variablre
+// swap two numbers without using 3rd variablre:
 #include<stdio.h>
 int swap(int *x , int *y);
 int main()
